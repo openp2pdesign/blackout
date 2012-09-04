@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1331971440
-ModificationTime: 1345104955
+ModificationTime: 1346772278
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -83,7 +83,7 @@ DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 176 16 4
-BeginChars: 65539 142
+BeginChars: 65539 143
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -3473,7 +3473,7 @@ EndChar
 StartChar: Otilde
 Encoding: 213 213 105
 Width: 656
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -3682,7 +3682,7 @@ EndChar
 StartChar: Atilde
 Encoding: 195 195 110
 Width: 782
-Flags: HWO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -4802,7 +4802,7 @@ EndChar
 StartChar: Ntilde
 Encoding: 209 209 141
 Width: 652
-Flags: HWO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -4866,6 +4866,47 @@ SplineSet
  659 -155 l 1,66,-1
  -4 -155 l 1,67,-1
  -4 891 l 1,64,-1
+EndSplineSet
+EndChar
+
+StartChar: Oslash
+Encoding: 216 216 142
+Width: 656
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+552.528 705.323 m 1,0,-1
+ 190 0 l 1,1,-1
+ 109.122 37.8828 l 1,2,-1
+ 471.651 743.204 l 1,3,-1
+ 552.528 705.323 l 1,0,-1
+612 470 m 1,4,5
+ 611 521 611 521 593 569 c 128,-1,6
+ 575 617 575 617 539 655 c 0,7,8
+ 498 698 498 698 445.5 721 c 128,-1,9
+ 393 744 393 744 334 744 c 2,10,-1
+ 333 744 l 2,11,12
+ 274 744 274 744 222 721 c 128,-1,13
+ 170 698 170 698 128 655 c 1,14,15
+ 93 617 93 617 74 567.5 c 128,-1,16
+ 55 518 55 518 55 470 c 2,17,-1
+ 55 296 l 1,18,19
+ 56 236 56 236 72.5 183 c 128,-1,20
+ 89 130 89 130 128 88 c 1,21,22
+ 170 45 170 45 222.5 22 c 128,-1,23
+ 275 -1 275 -1 333 -1 c 2,24,-1
+ 334 -1 l 2,25,26
+ 393 -1 393 -1 445.5 22 c 128,-1,27
+ 498 45 498 45 539 89 c 0,28,29
+ 579 131 579 131 595.5 186.5 c 128,-1,30
+ 612 242 612 242 612 296 c 2,31,-1
+ 612 470 l 1,4,5
+-4 891 m 1,32,-1
+ 666 891 l 1,33,-1
+ 666 -155 l 1,34,-1
+ -4 -155 l 1,35,-1
+ -4 891 l 1,32,-1
 EndSplineSet
 EndChar
 EndChars
